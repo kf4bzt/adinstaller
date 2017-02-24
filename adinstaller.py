@@ -14,8 +14,8 @@ from time import strftime
 
 # Hardcode credentials
 
-username = 'bsgadmin'
-password = 'AdminBSG'
+username = 'username'
+password = 'password'
 cmd = 'uname -a'
 file_name = 'serverlist'
 host = ''
